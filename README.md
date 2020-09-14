@@ -1,7 +1,13 @@
-And as **imagination** bodies forth, The forms of things *unknown*, the poet’s pen, Turns them to 
-shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## The Unix Workbench Project
 
-- This is - an unordered - list 1. This is 2. an ordered 3. list Here is `some code` in the middle 
-of a sentence. ``` This is a block
-of code
+
+**Description:** Make a program called *guessinggame.sh*. This program should continuously ask the user to guess the number of files in the current directory, until they guess the correct number. The user is informed if their guess is too high or too low. Once the user guesses the correct number of files in the current directory they should be congratulated.
+
+**Creation date:** 14/09/2020
+
+
+**Time:** 13:31:01
+
+
+**Number of lines in guessinggame.sh:**
+      23
